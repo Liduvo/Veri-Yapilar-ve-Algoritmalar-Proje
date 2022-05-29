@@ -1,4 +1,4 @@
-# Veri-Yapilar-ve-Algoritmalar-odev
+# Veri-Yapilar-ve-Algoritmalar-Proje
 Veri Yapıları ve Algoritmalar Derslerinin Projeleri Patika.dev
 
 # Proje 1 Insertion Sort
