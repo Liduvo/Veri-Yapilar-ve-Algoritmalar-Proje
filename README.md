@@ -44,12 +44,6 @@ Veri Yapıları ve Algoritmalar Derslerinin Projeleri Patika.dev
 #### A) Root 7 Olsun bunun sağına 8 soluan ise 5 gelir. 5'in sağına 6 soluna ise 1 gelir. 8'in sağına 9 gelir.
 #### 1'in soluna 0 gelir sağına ise 3 gelir. 3'ün soluna 2 sağına ise 4 gelir.
 
-####         7
-####       5     8
-####    1   6     9
-####  0  3
-####    2 4
-
 
 
 
